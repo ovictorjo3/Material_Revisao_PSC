@@ -7,7 +7,7 @@
 \usecolortheme{dolphin}
 \usepackage{setspace}
 \usepackage{xcolor}
-\usepackage{ifthen}
+
 
 % Informações que serão inseridas no slide da capa:
 \title[CETi Gilberto Mestrinho]{Revisão - PSC 1}
@@ -16,9 +16,22 @@
 \date{\today}
 %\logo{\includegraphics[scale=0.05]{logo-utfpr.png}} 
 
+\newif\ifusarcorvermelha
+%\usarcorvermelhatrue % Ativa o texto vermelho (comente para desativar)
+
+% --- Comando \vermelho ---
+\newcommand{\vermelho}[1]{%
+    \ifusarcorvermelha
+        {\color{red}#1}% % Texto vermelho se \ifusarcorvermelha = true
+    \else
+        #1% % Texto normal se \ifusarcorvermelha = false
+    \fi
+}
+
 \begin{document}
 \justifying
 \onehalfspacing
+
 
 \begin{frame}
     \titlepage
@@ -49,7 +62,7 @@
 
             \begin{enumerate}[a]
                 \item a produção de 100 calçados é a que realiza o custo máximo da produção.
-                \item a produção de 20 calçados é a que realiza o custo mínimo da produção.  %
+                \item \vermelho{produção de 20 calçados é a que realiza o custo mínimo da produção}.  %
                 \item quando são produzidos 40 calçados, o custo total da produção é de R\$ 1.600,00
                 \item o custo máximo da produção é de R\$ 500,00
                 \item o custo mínimo da produção é de R\$ 150,00
@@ -64,7 +77,7 @@
             \begin{enumerate}[a]
                 \item 6 cm.
                 \item 4 cm.
-                \item 5 cm. %
+                \item \vermelho{5 cm.} %
                 \item 7 cm.
                 \item 8 cm.
             \end{enumerate}
@@ -79,7 +92,7 @@
             \item $R\$ \ 52.000,00$
             \item $R\$ \ 54.000,00$
             \item $R\$ \ 58.000,00$
-            \item $R\$ \ 56.000,00$ %
+            \item \vermelho{$R\$ \ 56.000,00$} %
         \end{enumerate}
                 
     \end{frame}
@@ -93,7 +106,7 @@
             \item 8 cm e 13 cm.
             \item 6 cm e 15 cm.
             \item 7 cm e 14 cm.
-            \item 9 cm e 12 cm. %
+            \item \vermelho{9 cm e 12 cm.} %
             \item 10 cm e 11 cm.
         \end{enumerate}
       
@@ -108,7 +121,7 @@
                 \item 28.
                 \item 30.
                 \item 32.
-                \item 21. %
+                \item \vermelho{21.} %
             \end{enumerate}
     
     \end{frame}
@@ -125,7 +138,7 @@
                 \item 0,27mm.
                 \item 0,22mm.
                 \item 0,23mm.
-                \item 0,25mm. %
+                \item \vermelho{0,25mm.} %
                 \item 0,28mm.
             \end{enumerate}
     
@@ -141,7 +154,7 @@
                     \item $f(x)=12-2x$
                     \item $f(x)=12+6x$
                     \item $f(x)=12+12x$
-                    \item $f(x)=12-6x$
+                    \item \vermelho{$f(x)=12-6x$}
                 \end{enumerate}
             \end{column}
 
@@ -156,7 +169,7 @@
         Os triângulos ABC e PQR são congruentes. O perímetro do triângulo PQR é igual a 77 cm. Os lados do triângulo ABC medem, respectivamente, $x+7$, $3x+6$ e $4x$. Logo, o valor de $x$ é igual a:
 
             \begin{enumerate}[a]
-                \item 8 %
+                \item \vermelho{8} %
                 \item 9
                 \item 10
                 \item 12
@@ -171,7 +184,7 @@
             \begin{enumerate}[a]
                 \item $65,0 \ s$
                 \item $75,0 \ s$
-                \item $76,8 \ s$ %
+                \item \vermelho{$76,8 \ s$} %
                 \item $80,0 \ s$
                 \item $90,8 \ s$
             \end{enumerate}
@@ -186,7 +199,7 @@
                 \item $-7$
                 \item $-3$
                 \item $-4$
-                \item $-5$ %
+                \item \vermelho{$-5$} %
             \end{enumerate}
     
     \end{frame}
@@ -197,7 +210,7 @@
             \begin{enumerate}[a]
                 \item $R\$ \ 837,50.$
                 \item $R\$ \ 737,50.$
-                \item $R\$ \ 937,50.$ %
+                \item \vermelho{$R\$ \ 937,50.$} %
                 \item $R\$ \ 1.152,50.$ 
                 \item $R\$ \ 1.300,50.$ 
             \end{enumerate}
@@ -208,7 +221,7 @@
         A pontuação final para determinado Processo Seletivo é dada pela média ponderada dos pontos da prova de Conhecimentos Gerais, com peso 2, e dos pontos da prova de Conhecimentos Específicos, com peso 3. Considerando que determinado candidato obteve 175 pontos na prova de Conhecimentos Gerais e 155 pontos na prova de Conhecimentos Específicos, podemos afirmar que sua pontuação final foi de:
 
             \begin{enumerate}[a]
-                \item 163 pontos. %
+                \item \vermelho{163 pontos.} %
                 \item 170 pontos.
                 \item 280 pontos.
                 \item 300,5 pontos.
@@ -224,7 +237,7 @@
                 \item 105.
                 \item 330.
                 \item 400.
-                \item 210. %
+                \item \vermelho{210.} %
                 \item 540.
             \end{enumerate}
     

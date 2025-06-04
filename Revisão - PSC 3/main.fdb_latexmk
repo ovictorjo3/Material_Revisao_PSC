@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1749003368.1976 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" "main.pdf" "main" 1749003369.87409 0
+["pdflatex"] 1749003560.99061 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" "main.pdf" "main" 1749003562.666 0
   "/etc/texmf/web2c/texmf.cnf" 1748796460.87279 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" 1749003366.17715 3188 959257e67708a857ef236e343669a6ec ""
+  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" 1749003558.80487 3188 959257e67708a857ef236e343669a6ec ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -211,10 +211,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748796563 8214598 63648d2b0e3aef3cd84bdc736277c243 ""
   "PSC2024Q49.png" 1749017584 23215 5b3aa445671d2fa8b963ada0346ac1ab ""
   "PSC3.png" 1749017584 50737 a573d7360a1e70c0deee9ba9147390c8 ""
-  "main.aux" 1749003369.76717 1784 2ce929485bc7d4045feda7aab33e68f4 "pdflatex"
-  "main.nav" 1749003369.76917 999 1b5a8a05e3c2867e5cabf51b14feb05d "pdflatex"
-  "main.out" 1749003369.76817 279 869ba581ab818f70d4d281288862f66b "pdflatex"
-  "main.tex" 1749003366.17715 3188 959257e67708a857ef236e343669a6ec ""
+  "main.aux" 1749003562.55076 1784 2ce929485bc7d4045feda7aab33e68f4 "pdflatex"
+  "main.nav" 1749003562.55276 999 1b5a8a05e3c2867e5cabf51b14feb05d "pdflatex"
+  "main.out" 1749003562.55176 279 869ba581ab818f70d4d281288862f66b "pdflatex"
+  "main.tex" 1749003558.80487 3188 959257e67708a857ef236e343669a6ec ""
   (generated)
   "main.aux"
   "main.log"

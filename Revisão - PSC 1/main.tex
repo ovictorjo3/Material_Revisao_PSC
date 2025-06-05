@@ -7,6 +7,7 @@
 \usecolortheme{dolphin}
 \usepackage{setspace}
 \usepackage{xcolor}
+\usepackage{graphicx}
 
 
 % Informações que serão inseridas no slide da capa:
@@ -15,17 +16,6 @@
 %\institute[IFAM]{Instituto Federal do Amazonas}
 \date{\today} 
 %\logo{\includegraphics[scale=0.05]{logo-utfpr.png}} 
-
-% Configuração das logos
-\logo{%
-  \makebox[\paperwidth]{%
-    \hspace*{0.2\paperwidth}%
-    \includegraphics[height=2.5cm,keepaspectratio]{logo_ufam.jpg}%
-    \hfill%
-    \includegraphics[height=2.5cm,keepaspectratio]{logo_ceti.png}%
-    \hspace*{0.2\paperwidth}%
-  }%
-}
 
 \newif\ifusarcorvermelha
 %\usarcorvermelhatrue % Ativa o texto vermelho (comente para desativar)
@@ -44,8 +34,29 @@
 \onehalfspacing
 
 
+
+
 \begin{frame}
-    \titlepage
+    \begin{titlepage}
+    \centering
+    \vspace*{1cm} % Ajuste o espaçamento vertical conforme necessário
+    
+    % Logos alinhadas horizontalmente
+    \noindent%
+    \hspace*{0.3\paperwidth}%
+    \includegraphics[height=2cm,keepaspectratio]{logo_ufam.jpg}%
+    \hfill%
+    \includegraphics[height=2cm,keepaspectratio]{logo_ceti.png}%
+    \hspace*{0.3\paperwidth}%
+    
+    \vspace{0.1cm} % Espaço entre as logos e o título
+    
+    {\Large\textbf{Revisão - PSC 1}} \\ % Título do documento
+    \vspace{1cm}
+    {\large 5 de junho de 2025} % Data
+    
+    \vfill % Preenche o espaço vertical restante
+    \end{titlepage}
 \end{frame}
 
 \section{Conteúdo Programático}

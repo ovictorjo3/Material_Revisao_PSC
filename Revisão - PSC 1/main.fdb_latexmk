@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1749093385.28816 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 1/main.tex" "main.pdf" "main" 1749093387.18097 0
+["pdflatex"] 1749093453.70092 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 1/main.tex" "main.pdf" "main" 1749093455.73163 0
   "/etc/texmf/web2c/texmf.cnf" 1748796460.87279 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 1/main.tex" 1749107738 9526 7f1df5ef7f6cb18e60eb5fb056fff707 ""
+  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 1/main.tex" 1749093448.99466 9582 7d65a38dcd00a485d2282de594897e1b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm" 1136768653 1536 f0fa079cdc83a6ffeda21e42352cf1ea ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -215,10 +215,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748796563 8214598 63648d2b0e3aef3cd84bdc736277c243 ""
   "logo_ceti.png" 1749107738 310287 685151a86e31186327176d4c24d89e4f ""
   "logo_ufam.jpg" 1749107738 193316 352f4735d663c30f1b30ec0af0e6fd33 ""
-  "main.aux" 1749093387.12159 3186 904a219c5508c9da6612e7247b2f596a "pdflatex"
-  "main.nav" 1749093387.12259 2004 e8d1881eac5be22504e04f92deac74d1 "pdflatex"
-  "main.out" 1749093387.12259 279 1ab49ac316b80a0be7daed24daf4cca0 "pdflatex"
-  "main.tex" 1749107738 9526 7f1df5ef7f6cb18e60eb5fb056fff707 ""
+  "main.aux" 1749093455.66977 3315 9d1c32b11f01aa1e930aecb3e8c558c4 "pdflatex"
+  "main.nav" 1749093455.67077 2097 88ba9a8b5933563cb18023ce0b4ac661 "pdflatex"
+  "main.out" 1749093455.67077 279 1ab49ac316b80a0be7daed24daf4cca0 "pdflatex"
+  "main.tex" 1749093448.99466 9582 7d65a38dcd00a485d2282de594897e1b ""
   "p1.png" 1749107738 51203 80dbddd4224d4d17edd523cb9db6093a ""
   "p2.png" 1749107738 65642 ced1528eaa1b50f13256384d0e8d05fb ""
   "psc2023Q47.png" 1749107738 4153 0bbcd8b8eccae08a539581522660b985 ""

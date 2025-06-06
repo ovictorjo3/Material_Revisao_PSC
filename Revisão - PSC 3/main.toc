@@ -1,3 +1,2 @@
 \babel@toc {brazil}{}\relax 
-\beamer@sectionintoc {1}{Conteúdo Programático}{2}{0}{1}
-\beamer@sectionintoc {2}{Questões PSC 3}{3}{0}{2}
+\beamer@sectionintoc {1}{Geometria Espacial}{3}{0}{1}

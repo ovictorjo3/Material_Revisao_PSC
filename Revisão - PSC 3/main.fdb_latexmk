@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1749171630.02006 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" "main.pdf" "main" 1749171634.00101 0
+["pdflatex"] 1749171851.72642 "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" "main.pdf" "main" 1749171855.45428 0
   "/etc/texmf/web2c/texmf.cnf" 1748796460.87279 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" 1749185984 10457 f53a27544f49687acdaf0f03fe6997d0 ""
+  "/home/ovictorjo/Documents/GitHub/Material_Revisao_PSC/Revisão - PSC 3/main.tex" 1749171847.55754 9881 d03e6aa521c8c57378167c0bf849ab9d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -216,11 +216,10 @@
   "QuestaoPSC2023Q47.png" 1749185984 12791 f14ec1fba9dec269d4eec4084b92869e ""
   "logo_ceti.png" 1749185984 310287 685151a86e31186327176d4c24d89e4f ""
   "logo_ufam.jpg" 1749185984 193316 352f4735d663c30f1b30ec0af0e6fd33 ""
-  "main.aux" 1749171633.88599 3145 ba534993a52c67b6eab76952876abc90 "pdflatex"
-  "main.nav" 1749171633.88799 2019 0b36d1651f38b852dac0c3adfb3c214c "pdflatex"
-  "main.out" 1749171633.88799 136 0767875649f410823e5dbed58c8c5c7a "pdflatex"
-  "main.tex" 1749185984 10457 f53a27544f49687acdaf0f03fe6997d0 ""
-  "questãoPSC2022Q50.png" 1749185984 9786 9220ef63302e154d9567e1235dde7857 ""
+  "main.aux" 1749171855.34256 3016 b01e2a9f2419dcdc0136b3d8010fe10f "pdflatex"
+  "main.nav" 1749171855.34456 1926 897c59b8009b4cd87ea2822271e5443c "pdflatex"
+  "main.out" 1749171855.34356 136 0767875649f410823e5dbed58c8c5c7a "pdflatex"
+  "main.tex" 1749171847.55754 9881 d03e6aa521c8c57378167c0bf849ab9d ""
   (generated)
   "main.aux"
   "main.log"
